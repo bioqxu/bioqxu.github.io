@@ -1,17 +1,26 @@
 - title: "ANANSE: an enhancer network-based computational approach for predicting key transcription factors in cell fate determination"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: u, Q., Georgiou, G., Frölich, S., van der Sande, M., Veenstra, G.J.C., Zhou, H., and van Heeringen, S.J.
+  image: ananse.png
+  description: ANANSE is a computational approach to infer enhancer-based gene regulatory networks (GRNs) and to identify key transcription factors between two GRNs. You can use it to study transcription regulation during development and differentiation, or to generate a shortlist of transcription factors for trans-differentiation experiments.
+  authors: Xu, Q., Georgiou, G., Frölich, S., van der Sande, M., Veenstra, G.J.C., Zhou, H., and van Heeringen, S.J.
   link:
-    url: https://arxiv.org/abs/2205.10346
-    display: NAR (2022)
+    url: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab598/6318498
+    display: Nucleic Acids Research (2022)
+  highlight: 1
+
+- title: "Single-cell RNA-seq identifies a reversible mesodermal activation in abnormally specified epithelia of p63 EEC syndrome"
+  image: eec.png
+  description: Our analyses showed that specification of the proper epithelial cell state was affected by p63 EEC mutations, with abnormal mesodermal activation. Inhibitors of mesodermal induction enhanced epidermal commitment. This study provides insights into disease mechanisms associated with p63 mutations and suggests potential therapeutic strategies.
+  authors: Soares, E.<sup>\#</sup>, Xu, Q.<sup>\#</sup>, Li, Q.<sup>\#</sup>, Qu, J., Zheng, Y., Raeven, H.H., Brandao, K.O., Petit, I., van den Akker, W.M., van Heeringen, S.J., Aberdam, D., Tang, F., and Zhou, H.
+  link:
+    url: https://www.pnas.org/content/116/35/17361.short
+    display: Proceedings of the National Academy of Sciences (2019)
   highlight: 1
 
 - title: "CRISPR inversion of CTCF sites alters genome topology and enhancer/promoter function"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: u, Q., Georgiou, G., Frölich, S., van der Sande, M., Veenstra, G.J.C., Zhou, H., and van Heeringen, S.J.
+  image: ctcf.jpg
+  description: The architectural protein CTCF plays a complex role in decoding the functional output of the genome. We now show that the orientation of a CTCF site restricts its choice of interacting partner, thus creating a code that predicts the three-dimensional organization of the genome. We propose a DNA extrusion model to account for orientation-specific loop formation.
+  authors: Guo, Y.<sup>\#</sup>, Xu, Q.<sup>\#</sup>, Canzio, D., Shou, J., Li, J., Gorkin, D. U., Jung, I., Wu, H., Zhai, Y., Tang, Y., Lu, Y., Wu, Y., Jia, Z., Li, W., Zhang, M.Q., Ren, B., Krainer, A.R., Maniatis, T., and Wu, Q.
   link:
-    url: https://arxiv.org/abs/2205.10346
+    url: https://www.sciencedirect.com/science/article/pii/S0092867415009150
     display: Cell (2015)
   highlight: 1
