@@ -6,7 +6,8 @@
     url: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab598/6318498
     display: Nucleic Acids Research (2022)
   highlight: 1
-
+  news2: Available at [GitHub](https://github.com/vanheeringen-lab/ANANSE)
+  
 - title: "Single-cell RNA-seq identifies a reversible mesodermal activation in abnormally specified epithelia of p63 EEC syndrome"
   image: eec.png
   description: Our analyses showed that specification of the proper epithelial cell state was affected by p63 EEC mutations, with abnormal mesodermal activation. Inhibitors of mesodermal induction enhanced epidermal commitment. This study provides insights into disease mechanisms associated with p63 mutations and suggests potential therapeutic strategies.
