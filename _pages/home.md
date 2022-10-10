@@ -8,7 +8,7 @@ permalink: /
 
 I am a Postdoc at the [Institute of Molecular and Clinical Ophthalmology Basel](https://iob.ch/), Basel, Switzerland. My current research interest is in appling and developing computational methods to analyze retina single cell RNA/ATAC-seq data. 
 
-I developed [ANANSE](https://academic.oup.com/nar/article/49/14/7966/6318498) for prediction of key transcription factors in cell fate determination. For more details about my work, see the [publications]({{ site.url }}{{ site.baseurl }}/publications).
+I developed [ANANSE](https://academic.oup.com/nar/article/49/14/7966/6318498) for prediction of key transcription factors in cell fate determination. For more details about my work, please see the [publications]({{ site.url }}{{ site.baseurl }}/publications).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
