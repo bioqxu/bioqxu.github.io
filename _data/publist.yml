@@ -1,16 +1,6 @@
-- title: "Cell fate determination controlled by transcription factors: from computational predictions to functional investigations"
-  image: phd_thesis.png
-  description: My thesis focuses on developing and applying bioinformatic tools and experimental approaches to study the function of TFs in cell fate determination. It provides novel insight into the function of TFs in embryonic development, disease mechanisms, and other cell fate determinations.
-  authors: Xu, Q.
-  link:
-    url: https://www.ru.nl
-    display: RU.NL (2022)
-  highlight: 1
-
 - title: "ANANSE: an enhancer network-based computational approach for predicting key transcription factors in cell fate determination"
   image: ananse.png
-  description: ANANSE is a computational tool, ANANSE (ANalysis Algorithm for Networks Specified by Enhancers), for efficient predictions of TFs in cell fate determination is presented. It outperforms other published methods in predicting TFs that can induce trans-differentiation. In addition, it is open source, freely available, and can be easily used with custom data. ANANSE exploits enhancer information in GRN inference, and provides insights into TF-mediated regulatory mechanisms underlying cell fate determination and development.
-  You can use it to study transcription regulation during development and differentiation, or to generate a shortlist of transcription factors for trans-differentiation experiments.
+  description: ANANSE is a computational approach to infer enhancer-based gene regulatory networks (GRNs) and to identify key transcription factors between two GRNs. It outperforms other published methods in predicting TFs that can induce trans-differentiation. In addition, it is open source, freely available, and can be easily used with custom data. ANANSE exploits enhancer information in GRN inference, and provides insights into TF-mediated regulatory mechanisms underlying cell fate determination and development. You can use it to study transcription regulation during development and differentiation, or to generate a shortlist of transcription factors for trans-differentiation experiments.
   authors: Xu, Q., Georgiou, G., Frölich, S., van der Sande, M., Veenstra, G.J.C., Zhou, H., and van Heeringen, S.J.
   link:
     url: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab598/6318498
@@ -25,6 +15,15 @@
   link:
     url: https://www.pnas.org/content/116/35/17361.short
     display: Proceedings of the National Academy of Sciences (2019)
+  highlight: 1
+
+- title: "Cell fate determination controlled by transcription factors: from computational predictions to functional investigations"
+  image: phd_thesis.png
+  description: My thesis focuses on developing and applying bioinformatic tools and experimental approaches to study the function of TFs in cell fate determination. It provides novel insight into the function of TFs in embryonic development, disease mechanisms, and other cell fate determinations.
+  authors: Xu, Q.
+  link:
+    url: https://www.ru.nl
+    display: RU.NL (2022)
   highlight: 1
 
 - title: "CRISPR inversion of CTCF sites alters genome topology and enhancer/promoter function"
