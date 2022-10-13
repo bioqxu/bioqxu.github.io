@@ -1,6 +1,16 @@
+- title: "Cell fate determination controlled by transcription factors: from computational predictions to functional investigations"
+  image: phd_thesis.png
+  description: My thesis focuses on developing and applying bioinformatic tools and experimental approaches to study the function of TFs in cell fate determination. It provides novel insight into the function of TFs in embryonic development, disease mechanisms, and other cell fate determinations.
+  authors: Xu, Q.
+  link:
+    url: https://www.ru.nl
+    display: RU.NL (2022)
+  highlight: 1
+
 - title: "ANANSE: an enhancer network-based computational approach for predicting key transcription factors in cell fate determination"
   image: ananse.png
-  description: ANANSE is a computational approach to infer enhancer-based gene regulatory networks (GRNs) and to identify key transcription factors between two GRNs. You can use it to study transcription regulation during development and differentiation, or to generate a shortlist of transcription factors for trans-differentiation experiments.
+  description: ANANSE is a computational tool, ANANSE (ANalysis Algorithm for Networks Specified by Enhancers), for efficient predictions of TFs in cell fate determination is presented. It outperforms other published methods in predicting TFs that can induce trans-differentiation. In addition, it is open source, freely available, and can be easily used with custom data. ANANSE exploits enhancer information in GRN inference, and provides insights into TF-mediated regulatory mechanisms underlying cell fate determination and development.
+  You can use it to study transcription regulation during development and differentiation, or to generate a shortlist of transcription factors for trans-differentiation experiments.
   authors: Xu, Q., Georgiou, G., Frölich, S., van der Sande, M., Veenstra, G.J.C., Zhou, H., and van Heeringen, S.J.
   link:
     url: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab598/6318498
@@ -10,7 +20,7 @@
   
 - title: "Single-cell RNA-seq identifies a reversible mesodermal activation in abnormally specified epithelia of p63 EEC syndrome"
   image: eec.png
-  description: Our analyses showed that specification of the proper epithelial cell state was affected by p63 EEC mutations, with abnormal mesodermal activation. Inhibitors of mesodermal induction enhanced epidermal commitment. This study provides insights into disease mechanisms associated with p63 mutations and suggests potential therapeutic strategies.
+  description: We use the TF TP63 as an example to study TF function in cell fate determination and the disease mechanisms affected by TF mutations. Here, we used human iPSCs derived from EEC syndrome patients carrying TP63 DBD mutations and studied transcriptomic changes during differentiation of these iPSCs cells to epidermal cells. We showed that the specification of the proper epidermal cell state was affected by TP63 DBD mutations, with abnormal mesodermal activation. Inhibitors of mesodermal induction enhanced epidermal commitment. This chapter provides insights into disease mechanisms associated with TP63 mutations and suggests potentially therapeutic strategies. 
   authors: Soares, E.<sup>\#</sup>, Xu, Q.<sup>\#</sup>, Li, Q.<sup>\#</sup>, Qu, J., Zheng, Y., Raeven, H.H., Brandao, K.O., Petit, I., van den Akker, W.M., van Heeringen, S.J., Aberdam, D., Tang, F., and Zhou, H.
   link:
     url: https://www.pnas.org/content/116/35/17361.short
