@@ -6,45 +6,10 @@ sitemap: false
 permalink: /
 ---
 
-I am a Postdoc at the [Institute of Molecular and Clinical Ophthalmology Basel](https://iob.ch/), Switzerland. My current research interest is in appling and developing computational methods to analyze retina single cell RNA/ATAC-seq data. For more details about my work, please see the [publications]({{ site.url }}{{ site.baseurl }}/publications).
-
+Quan Xu received his B.S. degree in Biotechnology from Hunan Normal University in 2012. He then achieved an M.S. degree in Bioinformatics from Shanghai Jiao Tong University in 2016, where he worked in the lab of Prof. Dr. Quang Wu, focusing on epigenetics and 3D genomic dynamics in gene regulation. Following this, Quan began his Ph.D. at the Radboud Institute for Molecular Life Sciences, Radboud University Nijmegen, the Netherlands, under the guidance of Prof. Dr. Gert Jan C. Veenstra, Prof. Dr. Huiqing Zhou, and Prof. Dr. Simon J. van Heeringen. His research focused on utilizing computational methods to study cell fate determination controlled by transcription factors. He completed his Ph.D. in May 2022. Since January 2021, Quan has been a postdoctoral fellow in the laboratory of Prof. Dr. J. Gray Camp at the [Institute of Molecular and Clinical Ophthalmology Basel](https://iob.ch/), and in the lab of Prof. Dr. Barbara Treutlein at the Department of Biosystems Science and Engineering, ETH Zürich, Basel, Switzerland. In January 2023, he transitioned to the Institute of Human Biology (IHB), Basel, Switzerland, continuing his postdoctoral research with Prof. Dr. J. Gray Camp and Prof. Dr. Barbara Treutlein. During his postdoc, he develops and applies computational methods to analyze single-cell transcriptome and chromatin accessibility data. His research aims to uncover the fundamental mechanisms involved in the development of the human gastrointestinal tract and the pathogenesis of related diseases, focusing on the characterization of primary tissues and organoids derived from the gastrointestinal tract.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
-    <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <!-- <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li> -->
-    </ol>
 
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/sc.png" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grn.png" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/cell_fate.png" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ctcf.png" alt="Slide 3" />
-        </div>
-    </div>
-
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
 </div>
 
 
