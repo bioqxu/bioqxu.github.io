@@ -1,10 +1,11 @@
 ---
-title: "Xu Lab - Home"
-layout: gridlay
-excerpt: "Xu Lab: Team members"
+title: "Xu Lab - Research"
+layout: textlay
+excerpt: "Xu Lab -- Research"
 sitemap: false
-permalink: /
+permalink: /research/
 ---
+
 
 # Research
 
