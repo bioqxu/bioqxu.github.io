@@ -11,7 +11,7 @@
 - title: "Single-cell RNA-seq identifies a reversible mesodermal activation in abnormally specified epithelia of p63 EEC syndrome"
   image: eec.png
   description: We use the TF TP63 as an example to study TF function in cell fate determination and the disease mechanisms affected by TF mutations. Here, we used human iPSCs derived from EEC syndrome patients carrying TP63 DBD mutations and studied transcriptomic changes during differentiation of these iPSCs cells to epidermal cells. We showed that the specification of the proper epidermal cell state was affected by TP63 DBD mutations, with abnormal mesodermal activation. Inhibitors of mesodermal induction enhanced epidermal commitment. This chapter provides insights into disease mechanisms associated with TP63 mutations and suggests potentially therapeutic strategies. 
-  authors: Soares, E.<sup>\#</sup>, Xu, Q.<sup>\#</sup>, Li, Q.<sup>\#</sup>, Qu, J., Zheng, Y., Raeven, H.H., Brandao, K.O., Petit, I., van den Akker, W.M., van Heeringen, S.J., Aberdam, D., Tang, F., and Zhou, H.
+  authors: Soares, E.<sup>\#</sup>, **Xu, Q.<sup>\#</sup>**, Li, Q.<sup>\#</sup>, Qu, J., Zheng, Y., Raeven, H.H., Brandao, K.O., Petit, I., van den Akker, W.M., van Heeringen, S.J., Aberdam, D., Tang, F., and Zhou, H.
   link:
     url: https://www.pnas.org/content/116/35/17361.short
     display: Proceedings of the National Academy of Sciences (2019)
