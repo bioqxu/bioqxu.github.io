@@ -9,7 +9,7 @@ permalink: /
 
 We are a dynamic research group at [Shanghai Center for Systems Biomedicine, Shanghai Jiao Tong University (上海交通大学，系统生物医学研究院)](https://scsb.sjtu.edu.cn/). 
 
-Our group’s mission is to apply **machine learning** and **organoid models** to understand the complexities of human development and disease. To achieve this, we combine innovative computational approaches with advanced experimental biology. We are dedicated to:
+Our group’s mission is to apply **machine learning** and **organoid models** to understand the complexities of **human development** and **disease**. To achieve this, we combine innovative computational approaches with advanced experimental biology. We are dedicated to:
 * **Developing new computational tools** to analyze and interpret complex biological data.
 * **Integrating large-scale biological datasets** to uncover mechanisms that drive human biology and disease.
 * **Designing, predicting, and building organoid models** to better replicate human biology and to study human development and disease in a controlled and reproducible way.
