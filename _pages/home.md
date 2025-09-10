@@ -1,7 +1,7 @@
 ---
-title: "Quan Xu - Home"
+title: "Xu Lab - Home"
 layout: homelay
-excerpt: "Quan Xu."
+excerpt: "Xu Lab at Shanghai Jiao Tong University."
 sitemap: false
 permalink: /
 ---
@@ -18,12 +18,12 @@ Our group’s mission is to apply machine learning and organoid models to unders
 Our ultimate goal is to unite computational biology and organoid research in order to answer key scientific questions about human health and disease.
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/home/ml_org.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/home/ml_org.png" style="width: 500px">
 </figure>
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sjtu.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sjtu.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
