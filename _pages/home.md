@@ -12,16 +12,14 @@ We are a dynamic research group at [Shanghai Center for Systems Biomedicine, Sha
 Our group’s mission is to apply machine learning and organoid models to understand the complexities of human development and disease, with a particular focus on conditions like cancer. To achieve this, we combine innovative computational approaches with advanced experimental biology. We are dedicated to:
 * **Developing new computational tools** to analyze and interpret complex biological data.
 * **Integrating large-scale biological datasets** to uncover mechanisms that drive human biology and disease.
-* **Designing and predicting novel organoid culture methods** to better model human biology.
-* **Building organoid models** to study human development and disease in a controlled and reproducible way.
+* **Designing, predicting, and building organoid models** to better replicate human biology and to study human development and disease in a controlled and reproducible way.
 * **Using organoid systems** to gain insights that can inform strategies for disease treatment and prevention.
 
 Our ultimate goal is to unite computational biology and organoid research in order to answer key scientific questions about human health and disease.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/slider/ml_org.png">
-
-
-
+<figure class="fifth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/home/ml_org.png" style="width: 130px">
+</figure>
 
 
 <figure class="fourth">
