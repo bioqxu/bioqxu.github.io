@@ -21,6 +21,8 @@ Our ultimate goal is to unite computational biology and organoid research in ord
   <img src="{{ site.url }}{{ site.baseurl }}/images/home/ml_org.png" style="width: 600px">
 </figure>
 
+**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
+
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sjtu.png" style="width: 210px">
