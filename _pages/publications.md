@@ -1,5 +1,5 @@
 ---
-title: Quan Xu - Publications"
+title: "Quan Xu - Publications"
 layout: gridlay
 excerpt: "Quan Xu -- Publications."
 sitemap: false
