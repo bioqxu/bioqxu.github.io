@@ -43,7 +43,7 @@ Our ultimate goal is to unite computational biology and organoid research in ord
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/home_3.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/home_4.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/home_4.jpg" alt="Slide 5" />
         </div>       
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
