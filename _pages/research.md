@@ -66,7 +66,7 @@ We develop computational tools to identify regulatory drivers of cell fate deter
 ### Decoding 3D Genome Architecture
 
 **We investigate how genome topology shapes gene regulation (Cell, 2015).**
-Using CRISPR-based editing of chromatin organization, we demonstrated that **CTCF binding site orientation determines chromatin looping specificity**, providing mechanistic support for the loop extrusion model. These findings reveal how three-dimensional genome architecture encodes regulatory programs essential for development and disease.
+CTCF and the cohesin complex are central regulators of higher-order chromatin organization in mammalian genomes. Using CRISPR/Cas9-mediated genomic editing combined with chromosome conformation capture approaches, we demonstrated that the **location and relative orientation of CTCF-binding sites (CBSs)** determine the specificity of long-range chromatin looping. By inverting CBS elements at endogenous loci, including the protocadherin and β-globin regions, we showed that CTCF site orientation reconfigures enhancer–promoter interactions, alters chromatin domain architecture, and reshapes gene expression patterns. These findings provide functional evidence that three-dimensional genome organization is encoded, in part, by the linear orientation of regulatory elements, offering mechanistic support for the loop extrusion model of chromatin folding.
 
 ### ... and more.
 
