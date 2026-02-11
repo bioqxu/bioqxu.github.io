@@ -21,7 +21,6 @@ Our research focuses on:
 
 Our ultimate goal is to unite computational biology and organoid research to address fundamental questions in human health and disease.
 
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
