@@ -25,9 +25,9 @@ We integrate multi-sample and multi-condition datasets to define conserved cellu
 
 ### Engineering Organoid Models to Recapitulate Human Biology
 
-![]({{ site.url }}{{ site.baseurl }}/images/research/res4.png){: style="width: 50%; display: block; margin: 0 auto;"}
-
 A central focus of our lab is the design and refinement of organoid systems that faithfully model human tissue architecture and function.
+
+![]({{ site.url }}{{ site.baseurl }}/images/research/res4.png){: style="width: 50%; display: block; margin: 0 auto;"}
 
 * **Microfold Cell–Enriched Intestinal Organoids (Nature Genetics, 2025).**
   We developed an intestinal organoid system enriched for microfold (M) cells through TNF stimulation, enabling the study of epithelial–immune interactions.
