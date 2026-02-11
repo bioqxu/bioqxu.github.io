@@ -9,7 +9,7 @@
   news2: Mapping the future of organoids [Roche](https://www.roche.com/stories/mapping-the-future-of-organoids) and Human Cell Atlas [HCA](https://data.humancellatlas.org/hca-bio-networks/organoid/atlases/organoid-endoderm-v1-0)
   
 - title: "Integrated cell atlas and tumoroids chart pancreatic cancer therapeutic targets."
-  image: ananse.png
+  image: pdac.png
   description: Pancreatic ductal adenocarcinoma (PDAC) is marked by a dense, fibroblast-rich stroma that actively shapes the tumor microenvironment and contributes to its aggressive clinical behavior. To define conserved PDAC cell states and uncover therapeutic vulnerabilities, we integrated single-cell transcriptomic data from 200 patient samples to construct a comprehensive PDAC atlas, identifying recurrent cancer cell and cancer-associated fibroblast (CAF) states, gene expression programs, and ligand–receptor interactions. We then developed modular patient-derived tumoroids incorporating both cancer cells and CAFs that recapitulate key features of ductal architecture and desmoplastic stroma. Single-cell and spatial transcriptomic analyses confirmed preservation of essential cellular states and signaling networks in vitro. Using this system, we identified Syndecan-1 (SDC1) as a CAF-responsive cancer cell receptor associated with poor patient survival, and demonstrated that functional blockade of SDC1 suppresses tumor growth in tumoroids. This work establishes an integrated atlas-to-organoid framework for dissecting cancer–stroma interactions and identifying actionable therapeutic targets.
   authors: Xu, Q.<sup>\*</sup>, Okuda, R.<sup>\*</sup>, Gjeta, B.<sup>\*</sup>, ..., Treutlein B.<sup>\#</sup>, Camp, JG.<sup>\#</sup>
   link:
