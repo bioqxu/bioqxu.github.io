@@ -22,7 +22,7 @@ We specialize in integrating multi-sample and multi-condition datasets to define
 ### Engineering Organoid Models to Recapitulate Human Biology
 
 A central focus of our lab is the design and refinement of organoid systems that faithfully model human tissue architecture and function.
-![]({{ site.url }}{{ site.baseurl }}/images/research/res4.png){: style="width: 50%; float: center; margin: 50px"}
+![]({{ site.url }}{{ site.baseurl }}/images/research/res4.png){: style="width: 50%; float: center; margin: 0px 0px 50px 50px"}
 
 * **Adrenal Cortex Organoids.** We developed a stable human fetal adrenal cortex organoid model to study steroidogenesis and zonation, revealing how WNT, BMP/TGFβ, and cAMP signaling coordinate cortical identity and hormone production.
 * **Pancreatic Tumoroids.** Our modular patient-derived tumoroids reconstruct tumor–stroma interactions and ductal architecture, providing a platform to study immune evasion and evaluate therapeutic combinations.
