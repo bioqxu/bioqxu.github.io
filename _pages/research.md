@@ -20,7 +20,7 @@ We specialize in integrating multi-sample and multi-condition datasets to define
 * **Pancreatic Cancer Atlas.** By integrating single-cell transcriptomes from 200 PDAC patient samples, we defined conserved cancer cell and cancer-associated fibroblast (CAF) states and their signaling interactions. Coupling the atlas with patient-derived tumoroids enabled identification of the CAF-responsive receptor **Syndecan-1 (SDC1)** as a therapeutic vulnerability.
 
 ### Engineering Organoid Models to Recapitulate Human Biology
-![]({{ site.url }}{{ site.baseurl }}/images/research/res4.png){: style="width: 50%; float: center; margin: 0px 50px 0px 50px"}
+![]({{ site.url }}{{ site.baseurl }}/images/research/res4.png){: style="width: 50%; float: center; margin: 0px 10px 0px 10px"}
 A central focus of our lab is the design and refinement of organoid systems that faithfully model human tissue architecture and function.
 
 * **Adrenal Cortex Organoids.** We developed a stable human fetal adrenal cortex organoid model to study steroidogenesis and zonation, revealing how WNT, BMP/TGFβ, and cAMP signaling coordinate cortical identity and hormone production.
