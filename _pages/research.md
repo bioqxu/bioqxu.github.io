@@ -32,7 +32,7 @@ A central focus of our lab is the design and refinement of organoid systems that
 * **Microfold Cell–Enriched Intestinal Organoids ([Nature Genetics, 2025](https://www.nature.com/articles/s41588-025-02182-6)).**
   We developed an intestinal organoid system enriched for microfold (M) cells through TNF stimulation, enabling the study of epithelial–immune interactions.
 
-* **Adrenal Cortex Organoids (in revision, 2025).**
+* **Adrenal Cortex Organoids ([in revision, 2025](https://www.cell.com/)).**
   We established a stable human fetal adrenal cortex organoid model to study steroidogenesis and zonation, revealing how WNT, BMP/TGFβ, and cAMP signaling coordinate cortical identity and hormone production.
 
 * **Bioengineered Human Colon Organoids ([Cell Stem Cell, 2024](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(24)00184-X)).**
