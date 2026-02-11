@@ -6,16 +6,21 @@ sitemap: false
 permalink: /
 ---
 
+**Decoding human development and disease through machine learning and organoid models.**
 
-We are a dynamic research group at [Shanghai Center for Systems Biomedicine, Shanghai Jiao Tong University (上海交通大学，系统生物医学研究院)](https://scsb.sjtu.edu.cn/). 
+We are a dynamic research group at the [Shanghai Center for Systems Biomedicine, Shanghai Jiao Tong University (上海交通大学，系统生物医学研究院)](https://scsb.sjtu.edu.cn/Researcher/12798.html). 
 
-Our group’s mission is to apply **machine learning** and **organoid models** to understand the complexities of **human development** and **disease**. To achieve this, we combine innovative computational approaches with advanced experimental biology. We are dedicated to:
-* **Developing new computational tools** to analyze and interpret complex biological data.
-* **Integrating large-scale biological datasets** to uncover mechanisms that drive human biology and disease.
-* **Designing, predicting, and building organoid models** to better replicate human biology and to study human development and disease in a controlled and reproducible way.
-* **Using organoid systems** to gain insights that can inform strategies for disease treatment and prevention.
+Our mission is to apply **machine learning** and **organoid models** to understand the complexity of **human development** and **disease**. We integrate innovative computational approaches with advanced experimental biology to bridge data-driven discovery and mechanistic insight.
 
-Our ultimate goal is to unite computational biology and organoid research in order to answer key scientific questions about human health and disease.
+Our research focuses on:
+
+* **Developing novel computational methods** to analyze and interpret complex multi-omics and imaging data.
+* **Integrating large-scale biological datasets** to uncover gene regulatory and cellular mechanisms underlying human biology and disease.
+* **Designing, predicting, and building organoid models** that more faithfully recapitulate human tissues, enabling controlled and reproducible studies of development and disease.
+* **Leveraging organoid systems** to generate insights that inform strategies for disease treatment and prevention.
+
+Our ultimate goal is to unite computational biology and organoid research to address fundamental questions in human health and disease.
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -56,7 +61,7 @@ Our ultimate goal is to unite computational biology and organoid research in ord
   </a>
 </div>
 
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
+**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://bioqxu.github.io/vacancies) **!**
 
 
 <figure class="fourth">
