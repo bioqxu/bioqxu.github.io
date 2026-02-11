@@ -19,7 +19,7 @@ permalink: /vacancies/
 3. Strong motivation for scientific research, the ability to conduct **independent research**, and a high level of responsibility. Excellent **communication skills** and a strong **teamwork spirit** are essential.
 
 ### Application
-Please send the following materials to **[xuquan@@sjtu.edu.cn](mailto:xuquan@@sjtu.edu.cn)** with the email subject line:
+Please send the following materials to **[xuquan@sjtu.edu.cn](mailto:xuquan@sjtu.edu.cn)** with the email subject line:
 **“Application_Name_Position”**
 1. **Cover letter** outlining research experience and future plans
 2. **Curriculum vitae** (including personal information, education, research experience, and publication list)
@@ -31,10 +31,11 @@ Please send the following materials to **[xuquan@@sjtu.edu.cn](mailto:xuquan@@sj
 PhD positions are available in biology, mathematics, computer science, or related fields, with a strong preference for candidates experienced in computational biology or organoid research.
 
 ### Application
-Please send the following materials to **[xuquan@@sjtu.edu.cn](mailto:xuquan@@sjtu.edu.cn)** with the email subject line:
+Please send the following materials to **[xuquan@sjtu.edu.cn](mailto:xuquan@sjtu.edu.cn)** with the email subject line:
 **“Application_Name_Position”**
-1. **Curriculum vitae** (including personal information, education, research experience, and publication list)
-2. **Representative publications** (up to three)
+1. **Cover letter** outlining research experience and future plans
+2. **Curriculum vitae** (including personal information, education, research experience, and publication list)
+3. **Representative publications** (up to three)
 
 ## Master, Bachelor, and Intern students 
 
@@ -42,11 +43,12 @@ Please send the following materials to **[xuquan@@sjtu.edu.cn](mailto:xuquan@@sj
 We actively recruit undergraduate, Master’s, and intern students to join the lab.
 
 ### Application
-Please send the following materials to **[xuquan@@sjtu.edu.cn](mailto:xuquan@@sjtu.edu.cn)** with the email subject line:
+Please send the following materials to **[xuquan@sjtu.edu.cn](mailto:xuquan@sjtu.edu.cn)** with the email subject line:
 **“Application_Name_Position”**
-1. **Curriculum vitae** (including personal information, education, research experience, and publication list)
+1. **Cover letter** outlining research experience
+2. **Curriculum vitae** (including personal information, education, research experience, and publication list)
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/home/ml_org.png" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/home/ml_org.png" width="80%">
 </figure>
