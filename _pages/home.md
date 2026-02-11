@@ -6,7 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-<font size=5 color=#0969DA>**Decoding human development and disease via machine learning and organoid models.**</font> 
 
 We are a dynamic research group at the [Shanghai Center for Systems Biomedicine, Shanghai Jiao Tong University (上海交通大学，系统生物医学研究院)](https://scsb.sjtu.edu.cn/Researcher/12798.html). 
 
@@ -67,6 +66,6 @@ Our ultimate goal is to unite computational biology and organoid research to add
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sjtu.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/scsb.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsfc.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsfc.png" style="width: 120px">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px"> -->
 </figure>
