@@ -1,18 +1,17 @@
 - title: "An integrated transcriptomic cell atlas of human endoderm-derived organoids."
   image: heoca.png
   description: Human pluripotent stem cells and tissue-resident fetal and adult stem cells can generate endoderm-derived epithelial organoids that recapitulate key aspects of human development and physiology. In this study, we integrated single-cell transcriptomic data from 218 samples, encompassing organoids and related in vitro models of diverse endodermal tissues, to establish an initial human endoderm-derived organoid cell atlas. The atlas comprises nearly one million cells across a wide range of conditions, data sources, and experimental protocols. By systematically comparing cell types and states between organoid models and primary tissues, we harmonized cell annotations through reference-based mapping. Focusing on the intestine and lung, we demonstrate how the atlas can be used to benchmark new protocols and assess perturbations and disease models. This resource centralizes diverse datasets and provides a foundation for evaluating organoid fidelity, characterizing diseased states, and accelerating protocol development.
-  authors: **Xu, Q.<sup>\*,\#</sup>**, Halle, L.<sup>\*</sup>, ..., Treutlein B.<sup>\#</sup>, Theis, F.<sup>\#</sup>, Camp, JG.<sup>\#</sup>
+  authors: Xu, Q.<sup>\*,\#</sup>, Halle, L.<sup>\*</sup>, ..., Treutlein B.<sup>\#</sup>, Theis, F.<sup>\#</sup>, Camp, JG.<sup>\#</sup>
   link:
     url: https://www.nature.com/articles/s41588-025-02182-6
     display: Nature Genetics (2025)
   highlight: 1
-  news1: Mapping the future of organoids [Roche](https://www.roche.com/stories/mapping-the-future-of-organoids)
-  news2: Human Cell Atlas [HCA](https://data.humancellatlas.org/hca-bio-networks/organoid/atlases/organoid-endoderm-v1-0)
+  news2: Mapping the future of organoids [Roche](https://www.roche.com/stories/mapping-the-future-of-organoids) and Human Cell Atlas [HCA](https://data.humancellatlas.org/hca-bio-networks/organoid/atlases/organoid-endoderm-v1-0)
   
 - title: "Integrated cell atlas and tumoroids chart pancreatic cancer therapeutic targets."
   image: ananse.png
   description: Pancreatic ductal adenocarcinoma (PDAC) is marked by a dense, fibroblast-rich stroma that actively shapes the tumor microenvironment and contributes to its aggressive clinical behavior. To define conserved PDAC cell states and uncover therapeutic vulnerabilities, we integrated single-cell transcriptomic data from 200 patient samples to construct a comprehensive PDAC atlas, identifying recurrent cancer cell and cancer-associated fibroblast (CAF) states, gene expression programs, and ligand–receptor interactions. We then developed modular patient-derived tumoroids incorporating both cancer cells and CAFs that recapitulate key features of ductal architecture and desmoplastic stroma. Single-cell and spatial transcriptomic analyses confirmed preservation of essential cellular states and signaling networks in vitro. Using this system, we identified Syndecan-1 (SDC1) as a CAF-responsive cancer cell receptor associated with poor patient survival, and demonstrated that functional blockade of SDC1 suppresses tumor growth in tumoroids. This work establishes an integrated atlas-to-organoid framework for dissecting cancer–stroma interactions and identifying actionable therapeutic targets.
-  authors: **Xu, Q.<sup>\*</sup>**, Okuda, R.<sup>\*</sup>, Gjeta, B.<sup>\*</sup>, ..., Treutlein B.<sup>\#</sup>, Camp, JG.<sup>\#</sup>
+  authors: Xu, Q.<sup>\*</sup>, Okuda, R.<sup>\*</sup>, Gjeta, B.<sup>\*</sup>, ..., Treutlein B.<sup>\#</sup>, Camp, JG.<sup>\#</sup>
   link:
     url: https://www.biorxiv.org/content/10.1101/2025.09.30.679518v1
     display: BioRxiv (2025)
@@ -22,7 +21,7 @@
 - title: "ANANSE: an enhancer network-based computational approach for predicting key transcription factors in cell fate determination"
   image: ananse.png
   description: ANANSE introduces an enhancer-based framework for inferring gene regulatory networks and identifying key transcription factors that drive cell fate transitions. By integrating enhancer activity with transcription factor binding and gene expression, ANANSE captures regulatory mechanisms that are missed by promoter-centric approaches. The method consistently outperforms existing tools in predicting transcription factors capable of inducing trans-differentiation and provides mechanistic insights into transcriptional control during development and differentiation. ANANSE is open source, broadly applicable to custom datasets, and enables systematic prioritization of candidate regulators for experimental validation.
-  authors: **Xu, Q.**, Georgiou, G., Frölich, S., van der Sande, M., Veenstra, G.J.C., Zhou, H.<sup>\#</sup>, and van Heeringen, S.J.<sup>\#</sup>
+  authors: Xu, Q., Georgiou, G., Frölich, S., van der Sande, M., Veenstra, G.J.C., Zhou, H.<sup>\#</sup>, and van Heeringen, S.J.<sup>\#</sup>
   link:
     url: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab598/6318498
     display: Nucleic Acids Research (2022)
@@ -32,7 +31,7 @@
 - title: "Single-cell RNA-seq identifies a reversible mesodermal activation in abnormally specified epithelia of p63 EEC syndrome"
   image: eec.png
   description: Using the transcription factor TP63 as a model, we investigated how transcription factor function and mutation influence cell fate determination and disease mechanisms. We studied human induced pluripotent stem cells (iPSCs) derived from EEC syndrome patients carrying DNA-binding domain (DBD) mutations in TP63, and analyzed transcriptomic changes during their differentiation into epidermal cells. We found that TP63 DBD mutations impaired proper epidermal fate specification and led to aberrant activation of mesodermal programs. Notably, inhibition of mesodermal induction pathways partially rescued epidermal commitment. This work provides mechanistic insights into TP63-associated disease and suggests potential therapeutic strategies for correcting cell fate defects caused by transcription factor mutations. 
-  authors: Soares, E.<sup>\*</sup>, **Xu, Q.<sup>\*</sup>**, Li, Q.<sup>\*</sup>, Qu, J., Zheng, Y., Raeven, H.H., Brandao, K.O., Petit, I., van den Akker, W.M., van Heeringen, S.J., Aberdam, D., Tang, F.<sup>\#</sup>, and Zhou, H.<sup>\#</sup>
+  authors: Soares, E.<sup>\*</sup>, Xu, Q.<sup>\*</sup>, Li, Q.<sup>\*</sup>, Qu, J., Zheng, Y., Raeven, H.H., Brandao, K.O., Petit, I., van den Akker, W.M., van Heeringen, S.J., Aberdam, D., Tang, F.<sup>\#</sup>, and Zhou, H.<sup>\#</sup>
   link:
     url: https://www.pnas.org/content/116/35/17361.short
     display: Proceedings of the National Academy of Sciences (2019)
