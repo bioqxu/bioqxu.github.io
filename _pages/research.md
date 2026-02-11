@@ -9,34 +9,45 @@ permalink: /research/
 
 # Research
 
-Our lab investigates the molecular, cellular, and genetic mechanisms underlying human development and disease by combining computational biology, organoid technology, and genome topology studies. By integrating cutting-edge experimental and computational approaches, we aim to answer fundamental biological questions and identify pathways that can lead to innovative therapies.
+Our lab investigates the molecular, cellular, and genetic mechanisms underlying human development and disease by integrating **computational biology, organoid technology, and genome topology studies**. By combining large-scale data integration with mechanistic experimental systems, we aim to uncover fundamental regulatory principles and translate them into therapeutic strategies.
 
-### Integrating large-scale biological datasets to uncover mechanisms that drive human biology and disease
-Our lab specializes in integrating large-scale biological datasets to chart cellular states and identify mechanisms underlying development and disease. For instance, we established the human endoderm organoid cell atlas (HEOCA), encompassing single-cell transcriptomic profiles of ∼1 million cells across diverse organoid models, such as lung, liver, pancreas, intestine, and stomach. HEOCA provides a platform for comparing organoid fidelity to primary tissue counterparts, revealing ontogenic cell states that can be modeled in vitro and enabling the discovery of disease-associated cellular alterations (An integrated transcriptomic cell atlas of human endoderm-derived organoids).
+### Integrating Large-Scale Biological Datasets to Decode Cellular States
 
-We also integrated single-cell transcriptomic data from 200 pancreatic ductal adenocarcinoma (PDAC) patient samples to create a comprehensive atlas of PDAC cell states and their interactions with cancer-associated fibroblasts (CAFs). By combining these insights with patient-derived tumoroids, we identified the CAF-responsive receptor Syndecan-1 (SDC1) as a potential therapeutic target, demonstrating that its blockade disrupted cancer growth in vitro (Integrated cell atlas and tumoroids chart pancreatic cancer therapeutic targets).
+We specialize in integrating multi-sample and multi-condition datasets to define conserved cellular states and regulatory programs across development and disease.
+![]({{ site.url }}{{ site.baseurl }}/images/research/res1.png){: style="width: 250px; float: left; margin: 0px  10px"}
 
-### Designing, predicting, and building organoid models to better replicate human biology
-At the forefront of our research are organoid models designed to capture the complexity of human tissue biology. Our innovations include:
+* **Human Endoderm Organoid Cell Atlas (HEOCA).** We established a single-cell atlas comprising ~1 million cells across diverse endoderm-derived organoid models, including lung, liver, pancreas, intestine, and stomach. HEOCA enables systematic benchmarking of organoid fidelity against primary tissues, reveals ontogenic cell states captured in vitro, and facilitates the identification of disease-associated cellular alterations.
+* **Pancreatic Cancer Atlas.** By integrating single-cell transcriptomes from 200 PDAC patient samples, we defined conserved cancer cell and cancer-associated fibroblast (CAF) states and their signaling interactions. Coupling the atlas with patient-derived tumoroids enabled identification of the CAF-responsive receptor **Syndecan-1 (SDC1)** as a therapeutic vulnerability.
 
-* Adrenal Cortex Organoids: We developed a stable adrenal cortex organoid model derived from primary human fetal tissue to study steroidogenesis and zonation. This system revealed how signaling pathways (e.g., WNT, BMP/TGFβ, cAMP) regulate different cortical zones and identified drivers of steroid hormone production (An organoid model of the human adrenal cortex identifies drivers of steroidogenesis and zonation).
-* Pancreatic Tumoroids: Our patient-derived pancreatic tumoroids mimic tumor-stroma interactions and ductal architecture, providing a platform to investigate mechanisms of immune evasion and to assess potential therapeutic combinations (Learning a pancreatic tumoroid phenospace to assess therapeutics).
-* Epidermal Differentiation Organoids: Using iPSCs from patients with EEC syndrome, we identified differentiation defects caused by p63 mutations, revealing how these mutations disrupt epithelial commitment. We further showed that repressing mesodermal induction can restore epidermal differentiation, providing a potential therapeutic strategy (Single-cell RNA-seq identifies a reversible mesodermal activation in abnormally specified epithelia of p63 EEC syndrome).
+### Engineering Organoid Models to Recapitulate Human Biology
 
-### Using organoid systems to gain insights that can inform strategies for disease treatment and prevention
-Organoids serve as versatile platforms in our lab to uncover disease mechanisms and propose therapeutic strategies:
+A central focus of our lab is the design and refinement of organoid systems that faithfully model human tissue architecture and function.
 
-* By integrating HEOCA with disease data, we identified altered cellular states in organoid models of disease, enabling a deeper understanding of perturbed biology (An integrated transcriptomic cell atlas of human endoderm-derived organoids).
-* Combining patient-derived CAFs with pancreatic tumoroids revealed that fibrosis modulators enhance immunotherapy efficacy, highlighting the therapeutic importance of disrupting the fibrotic tumor microenvironment (Learning a pancreatic tumoroid phenospace to assess therapeutics).
-* Human adrenal cortex organoids illuminate key regulatory mechanisms of steroid production, with implications for adrenal disease research and therapy (An organoid model of the human adrenal cortex identifies drivers of steroidogenesis and zonation).
-* Reprogramming epidermal defects in p63 mutation models demonstrates the potential for reversing developmental syndromes through targeted inhibition of mesodermal gene activation (Single-cell RNA-seq identifies a reversible mesodermal activation in abnormally specified epithelia of p63 EEC syndrome).
+* **Adrenal Cortex Organoids.** We developed a stable human fetal adrenal cortex organoid model to study steroidogenesis and zonation, revealing how WNT, BMP/TGFβ, and cAMP signaling coordinate cortical identity and hormone production.
+* **Pancreatic Tumoroids.** Our modular patient-derived tumoroids reconstruct tumor–stroma interactions and ductal architecture, providing a platform to study immune evasion and evaluate therapeutic combinations.
+* **Epidermal Differentiation Models.** Using iPSCs from EEC syndrome patients carrying *TP63* mutations, we uncovered aberrant mesodermal activation impairing epidermal commitment and demonstrated partial rescue through pathway inhibition.
 
-### Developing new computational tools to analyze and interpret complex biological data
-We create computational frameworks to explore biological data and uncover regulatory mechanisms. For example, we developed ANANSE, a tool that uses enhancer-encoded information to identify key transcription factors (TFs) driving cell fate determination. By integrating genome-wide enhancer activity with gene regulatory networks, ANANSE uncovers cell type-specific TFs and facilitates studies on transcription factor-mediated cell fate transitions, outperforming traditional approaches. This tool enabled us to define an atlas of TFs in 18 human tissues, transforming our understanding of transcriptional regulation in development and disease (ANANSE: an enhancer network-based computational approach for predicting key transcription factors in cell fate determination).
+### From Organoids to Therapeutic Insight 
+![]({{ site.url }}{{ site.baseurl }}/images/research/res2.png){: style="width: 250px; float: right; margin: 0px 10px"}
 
-### Exploring 3D genome topology for developmental and disease insights
-Our research further explores how genome architecture impacts gene regulation using CRISPR-based editing of chromatin organization. We found that CTCF-binding site orientation determines chromatin looping specificity, impacting enhancer-promoter interactions and altering gene expression. These findings reveal how genome topology encodes regulatory programs essential for development and disease (CRISPR Inversion of CTCF Sites Alters Genome Topology and Enhancer/Promoter Function).
+We use organoid systems not only to model biology, but to identify actionable mechanisms.
 
+* Atlas-guided comparisons reveal perturbed cellular states in disease models.
+* Tumoroid co-culture systems uncover stromal signals that influence immunotherapy response.
+* Adrenal organoids define regulatory circuits controlling steroid production.
+* Targeted modulation of lineage-inappropriate gene activation restores defective differentiation programs.
+
+Together, these approaches provide a scalable framework for linking cellular state, regulatory mechanism, and therapeutic opportunity.
+
+### Developing Computational Frameworks for Regulatory Biology
+
+We develop computational tools to decode gene regulation from high-dimensional data.
+
+**ANANSE**, our enhancer-network–based framework, infers gene regulatory networks and identifies key transcription factors driving cell fate transitions. By integrating enhancer activity with transcriptional networks, ANANSE reveals cell type–specific regulators and outperforms promoter-centric approaches. Using this framework, we constructed a cross-tissue atlas of transcription factors across 18 human tissues, advancing our understanding of regulatory control in development and disease.
+
+### Decoding 3D Genome Architecture
+
+We investigate how genome topology shapes gene regulation. Using CRISPR-based editing of chromatin organization, we demonstrated that **CTCF binding site orientation determines chromatin looping specificity**, providing mechanistic support for the loop extrusion model. These findings reveal how three-dimensional genome architecture encodes regulatory programs essential for development and disease.
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
