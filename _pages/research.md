@@ -37,14 +37,6 @@ We use organoid systems not only to model human biology, but also to identify ac
 
 Together, these approaches provide a scalable framework linking cellular states, regulatory mechanisms, and therapeutic opportunity.
 
-### Developing Computational Frameworks for Regulatory Biology
-
-![]({{ site.url }}{{ site.baseurl }}/images/research/res3.png){: style="width: 250px; float: left; margin: 0px 10px"}
-
-We develop computational tools to decode gene regulation from high-dimensional data.
-
-**ANANSE (Nucleic Acids Research, 2019)** is our enhancer-network–based framework for inferring gene regulatory networks and identifying key transcription factors driving cell fate transitions. By integrating enhancer activity with transcriptional networks, ANANSE reveals cell type–specific regulators and outperforms promoter-centric approaches. Using this framework, we constructed a cross-tissue atlas of transcription factors across 18 human tissues, advancing our understanding of regulatory control in development and disease.
-
 ### Engineering Organoid Models to Recapitulate Human Biology
 
 ![]({{ site.url }}{{ site.baseurl }}/images/research/res4.png){: style="width: 50%; display: block; margin: 0 auto;"}
@@ -62,6 +54,14 @@ A central focus of our lab is the design and refinement of organoid systems that
 
 * **Epidermal Differentiation Models (PNAS, 2019).**
   Using iPSCs from EEC syndrome patients carrying *TP63* mutations, we uncovered aberrant mesodermal activation that impaired epidermal commitment and demonstrated partial rescue through pathway inhibition.
+
+### Developing Computational Frameworks for Regulatory Biology
+
+![]({{ site.url }}{{ site.baseurl }}/images/research/res3.png){: style="width: 250px; float: left; margin: 0px 10px"}
+
+We develop computational tools to decode gene regulation from high-dimensional data.
+
+**ANANSE (Nucleic Acids Research, 2019)** is our enhancer-network–based framework for inferring gene regulatory networks and identifying key transcription factors driving cell fate transitions. By integrating enhancer activity with transcriptional networks, ANANSE reveals cell type–specific regulators and outperforms promoter-centric approaches. Using this framework, we constructed a cross-tissue atlas of transcription factors across 18 human tissues, advancing our understanding of regulatory control in development and disease.
 
 ### Decoding 3D Genome Architecture
 
