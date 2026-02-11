@@ -69,7 +69,5 @@ We develop computational tools to decode gene regulation from high-dimensional d
 Using CRISPR-based editing of chromatin organization, we demonstrated that **CTCF binding site orientation determines chromatin looping specificity**, providing mechanistic support for the loop extrusion model. These findings reveal how three-dimensional genome architecture encodes regulatory programs essential for development and disease.
 
 
-### Fr
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
-
+### ... and more.
 
