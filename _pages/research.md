@@ -59,15 +59,14 @@ Together, these approaches provide a scalable framework linking cellular states,
 
 ![]({{ site.url }}{{ site.baseurl }}/images/research/res3.png){: style="width: 250px; float: left; margin: 0px 10px"}
 
-We develop computational tools to decode gene regulation from high-dimensional data.
+We develop computational tools to identify regulatory drivers of cell fate determination.
 
-**ANANSE (Nucleic Acids Research, 2019)** is our enhancer-network–based framework for inferring gene regulatory networks and identifying key transcription factors driving cell fate transitions. By integrating enhancer activity with transcriptional networks, ANANSE reveals cell type–specific regulators and outperforms promoter-centric approaches. Using this framework, we constructed a cross-tissue atlas of transcription factors across 18 human tissues, advancing our understanding of regulatory control in development and disease.
+**ANANSE (Nucleic Acids Research, 2019)** is our enhancer-centered framework for inferring gene regulatory networks (GRNs) and prioritizing key transcription factors (TFs) controlling cell identity. Because cell type–specific TFs predominantly act through enhancers, ANANSE integrates enhancer activity with TF binding motifs to predict genome-wide TF binding profiles and construct cell type–specific regulatory networks. By comparing differential networks between cell states, ANANSE identifies candidate TFs driving cell fate transitions and consistently outperforms promoter-based approaches in predicting factors sufficient for trans-differentiation. Using this framework, we generated a cross-tissue atlas of key transcription factors across 18 human tissues. ANANSE is open source and widely applicable for studying transcriptional regulation in development and disease.
 
 ### Decoding 3D Genome Architecture
 
 **We investigate how genome topology shapes gene regulation (Cell, 2015).**
 Using CRISPR-based editing of chromatin organization, we demonstrated that **CTCF binding site orientation determines chromatin looping specificity**, providing mechanistic support for the loop extrusion model. These findings reveal how three-dimensional genome architecture encodes regulatory programs essential for development and disease.
-
 
 ### ... and more.
 
