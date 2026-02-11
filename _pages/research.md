@@ -23,20 +23,6 @@ We integrate multi-sample and multi-condition datasets to define conserved cellu
 * **Pancreatic Cancer Atlas (bioRxiv, 2025a).**
   By integrating single-cell transcriptomes from 200 PDAC patient samples, we defined conserved cancer cell and cancer-associated fibroblast (CAF) states and their signaling interactions. Coupling the atlas with patient-derived tumoroids enabled identification of the CAF-responsive receptor **Syndecan-1 (SDC1)** as a potential therapeutic vulnerability.
 
-### From Organoids to Therapeutic Insight
-
-![]({{ site.url }}{{ site.baseurl }}/images/research/res2.png){: style="width: 250px; float: right; margin: 0px 10px"}
-
-We use organoid systems not only to model human biology, but also to identify actionable mechanisms and therapeutic strategies.
-
-* **Pancreatic Tumoroids (bioRxiv, 2025a, 2025b).**
-  Our modular patient-derived tumoroids reconstruct tumor–stroma interactions and ductal architecture, providing a platform to investigate immune evasion and evaluate therapeutic combinations.
-
-* **Retina Organoids for Base Editing (Nature Medicine, 2025).**
-  We demonstrated high-efficiency base editing in primate and human retinal tissues, highlighting the translational potential of precision genome editing in organoid systems.
-
-Together, these approaches provide a scalable framework linking cellular states, regulatory mechanisms, and therapeutic opportunity.
-
 ### Engineering Organoid Models to Recapitulate Human Biology
 
 ![]({{ site.url }}{{ site.baseurl }}/images/research/res4.png){: style="width: 50%; display: block; margin: 0 auto;"}
@@ -54,6 +40,20 @@ A central focus of our lab is the design and refinement of organoid systems that
 
 * **Epidermal Differentiation Models (PNAS, 2019).**
   Using iPSCs from EEC syndrome patients carrying *TP63* mutations, we uncovered aberrant mesodermal activation that impaired epidermal commitment and demonstrated partial rescue through pathway inhibition.
+
+### From Organoids to Therapeutic Insight
+
+![]({{ site.url }}{{ site.baseurl }}/images/research/res2.png){: style="width: 250px; float: right; margin: 0px 10px"}
+
+We use organoid systems not only to model human biology, but also to identify actionable mechanisms and therapeutic strategies.
+
+* **Pancreatic Tumoroids (bioRxiv, 2025a, 2025b).**
+  Our modular patient-derived tumoroids reconstruct tumor–stroma interactions and ductal architecture, providing a platform to investigate immune evasion and evaluate therapeutic combinations.
+
+* **Retina Organoids for Base Editing (Nature Medicine, 2025).**
+  We demonstrated high-efficiency base editing in primate and human retinal tissues, highlighting the translational potential of precision genome editing in organoid systems.
+
+Together, these approaches provide a scalable framework linking cellular states, regulatory mechanisms, and therapeutic opportunity.
 
 ### Developing Computational Frameworks for Regulatory Biology
 
