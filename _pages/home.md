@@ -13,10 +13,11 @@ Our mission is to apply **machine learning** and **organoid models** to understa
 
 Our research focuses on:
 
-* **Developing novel computational methods** to analyze and interpret complex multi-omics and imaging data.
 * **Integrating large-scale biological datasets** to uncover gene regulatory and cellular mechanisms underlying human biology and disease.
 * **Designing, predicting, and building organoid models** that more faithfully recapitulate human tissues, enabling controlled and reproducible studies of development and disease.
 * **Leveraging organoid systems** to generate insights that inform strategies for disease treatment and prevention.
+* **Developing novel computational methods** to analyze and interpret complex multi-omics and imaging data.
+* **Exploring 3D genome topology** for developmental and disease insights.
 
 Our ultimate goal is to unite computational biology and organoid research to address fundamental questions in human health and disease.
 
